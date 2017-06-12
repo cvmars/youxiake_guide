@@ -1,4 +1,4 @@
-package com.youxiake.youxiake_guide;
+package com.youxiakeguide;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.youxiake.youxiake_guide", appContext.getPackageName());
+        assertEquals("com.youxiakeguide", appContext.getPackageName());
     }
 }

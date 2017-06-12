@@ -1,4 +1,4 @@
-package com.youxiake.youxiake_guide;
+package com.youxiakeguide;
 
 import org.junit.Test;
 
